@@ -12,7 +12,6 @@ Create a small app that allows users to search for information about any country
 2. **Search Button**: A button that triggers the search when clicked.
 3. **Save Country Button**: A button that saves the searched country into a data set (multiple can be saved)
 4. **Clear Button**: Clears the search
-5. 
 
 ## Part 2 - Display
 1. **Slideshow**: Create a slideshow to display in cards the saved countries
