@@ -21,6 +21,8 @@ Create a small app that allows users to search for information about any country
    - **Population**
    - **Region**
    - **Flag** (displayed as an image)
+3. Search, Save and Clear should be disabled when input is empty
+4. Searched country should be displayed after clickin search button.
   
 ## Bonus
 1. **Automatic Playback**: Include an automatic playback of 5 seconds for each country card.
