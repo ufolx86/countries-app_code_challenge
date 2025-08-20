@@ -15,8 +15,9 @@ Create a small app that allows users to search for information about any country
   Population
   Region
   Flag (displayed as an image)
-4. **Clear Button**: Clears the search
-5. **Country Info Section** area used to display the country info in a section of the DOM that is returned from the API.
-6. **Saved Country List** area used to display in a list the saved countries.
-7. Search, Save and Clear should be disabled when input is empty
+  
+5. **Clear Button**: Clears the search
+6. **Country Info Section** area used to display the country info in a section of the DOM that is returned from the API.
+7. **Saved Country List** area used to display in a list the saved countries.
+8. Search, Save and Clear should be disabled when input is empty
   
