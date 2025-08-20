@@ -11,10 +11,10 @@ Create a small app that allows users to search for information about any country
 3. **Save Country Button**: A button that saves the searched country into a data set (multiple can be saved)
    
   The following items need to be stored:
-   Country Name
-   Capital City
-   Population
-   Region
+   Country Name,
+   Capital City,
+   Population,
+   Region,
    Flag (displayed as an image)
   
 4. **Clear Button**: Clears the search
