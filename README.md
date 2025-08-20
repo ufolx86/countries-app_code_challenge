@@ -9,12 +9,12 @@ Create a small app that allows users to search for information about any country
 1. **Country Search Input**: An input field for users to enter a country name.
 2. **Search Button**: A button that triggers the search (API call) when clicked
 3. **Save Country Button**: A button that saves the searched country into a data set (multiple can be saved)
-  The following items need to be stored:/n
-  Country Name
-  Capital City
-  Population
-  Region
-  Flag (displayed as an image)
+  The following items need to be stored:
+  *Country Name
+  *Capital City
+  *Population
+  *Region
+  *Flag (displayed as an image)
   
 5. **Clear Button**: Clears the search
 6. **Country Info Section** area used to display the country info in a section of the DOM that is returned from the API.
